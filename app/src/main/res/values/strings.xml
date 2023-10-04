@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Metric Converter</string>
+    <string name="author">By: Clifford D. Mandagi</string>
+    <string name="select_metric">Pilih Metrik</string>
+    <string name="from_label">Dari:</string>
+    <string name="to_label">Ke:</string>
+    <string name="convert_button">Convert</string>
+    <string name="result_prefix">Hasil Konversi: %s</string>
+    <string name="invalid_input">Masukkan nilai yang valid</string>
+</resources>

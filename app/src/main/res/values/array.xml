@@ -1,0 +1,22 @@
+<resources>
+    <string-array name="metrics_array">
+        <item>Panjang</item>
+        <item>Berat</item>
+        <item>Suhu</item>
+    </string-array>
+    <string-array name="length_units_array">
+        <item>Meter</item>
+        <item>Centimeter</item>
+        <item>Kilometer</item>
+    </string-array>
+    <string-array name="weight_units_array">
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+    </string-array>
+    <string-array name="temperature_units_array">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
